@@ -1,0 +1,8 @@
+APP_ENV=production
+APP_URL=https://api.kudobuzz.com/
+WIDGET_URL=https://widget.kudobuzz.com/
+DASHBOARD_URL=https://dashboard.kudobuzz.com/
+ENCRYPTION_KEY=def000008c03f2939cf4380baee19a2c16b1692494f1f8728c05fe043c9faaf494df69ca8f5838225b6c8bc7cc26db3c25d62809fdcae5df1b59ac99b6236acefeaaa7c9
+CLIENT_APP_ID=594a28ac7dc86ea1240e0f43
+CLIENT_APP_SECRET=5031afe0-5677-11e7-bd59-29a3eb0c4e1f
+SENTRY_CLIENT_KEY=https://8e8794309e364a6d840fc9a0a03b4219:04a05bdbfc5741778f24050194a7a832@sentry.io/301299
